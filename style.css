@@ -7,7 +7,7 @@ body {
 }
 .cabecalho {
     background-color: #b86b06;
-    color: white;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -43,14 +43,12 @@ body {
     align-items: center;
     padding: 24px 0;
 }
-
 .escola-div-conteudo{
-    width: 35%;
+    width: 40%;
 }
 
-
 .escola-titulo{
-    padding: 24px 0;
+    padding: 34px 0;
 }
 
 #estudante{
@@ -93,3 +91,5 @@ body {
     padding: 12px 0;
    
 }
+
+
